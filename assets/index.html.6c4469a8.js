@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,b as c}from"./app.0ce8ecb0.js";const n={},o=c("p",null,"team1",-1),s=[o];function a(r,l){return t(),_("div",null,s)}var i=e(n,[["render",a],["__file","index.html.vue"]]);export{i as default};

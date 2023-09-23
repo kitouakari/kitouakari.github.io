@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,b as t}from"./app.54b1cb71.js";const _={},c=t("p",null,"show2",-1),n=[c];function r(a,l){return o(),s("div",null,n)}var d=e(_,[["render",r],["__file","show2.html.vue"]]);export{d as default};
